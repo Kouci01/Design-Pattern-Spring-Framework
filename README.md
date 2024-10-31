@@ -25,7 +25,8 @@ The command pattern encapsulated a request as an object, allow parameterization 
 
 ## Decorator Design Pattern
 Is a structural pattern to add new functionality or properties to an object dynamically, without altering its structure or creating subclasses. Allow flexible and reusable code.
-Example of decorator use: _Message -> HtmlMessage: <html> Message </html> -> EncryptedMessage: Encrypted <html> Message </html>_
+Example of decorator use: 
+> _Message -> HtmlMessage: <html> Message </html> -> EncryptedMessage: Encrypted <html> Message </html>_
 
 ## Observer Design Pattern
 Behaviour design pattern where an object have list of its dependent (observer), and notify automatically when a state is updated or changed. Observer in this pattern is the watcher and the trigger is when an object have some changed.
