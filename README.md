@@ -1,4 +1,4 @@
-### Design Pattern in Spring Framework
+# Design Pattern in Spring Framework
 
 ## Singleton Design Pattern:
 Beans in Spring is a singleton by default, where only one instance of the bean is created for the entire Spring container. Example from Code: ClientComponent bean and SingletonService are created one for the whole spring apps.
